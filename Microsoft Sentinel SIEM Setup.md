@@ -1,6 +1,6 @@
 # Project 3 — Microsoft Sentinel SIEM Setup
-**NOCTRIX Security | SOC Analyst Home Lab**  
-**Author:** Shan (CyberShachin) | **Date:** 2026-07-25  
+**SOC Analyst Home Lab**  
+**Author:** Shachin P R | **Date:** 2026-07-26  
 **GitHub:** github.com/shachinpr29 | **YouTube:** @CyberShachin
 
 ---
@@ -276,5 +276,5 @@ With the pipeline confirmed working, the next phase is:
 
 ---
 
-*Part of the NOCTRIX Security SOC Analyst Home Lab series.*  
+*Part of the  SOC Analyst Home Lab series.*  
 *Project 1: Splunk SIEM Detection Engineering — github.com/shachinpr29/siem-home-lab*
